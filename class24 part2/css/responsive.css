@@ -1,0 +1,8 @@
+@media (max-width:1150px) {
+    .fixed-with {
+        width: 100%;
+        margin: auto;
+        max-width: 100%;
+        overflow: hidden;
+    }
+}
